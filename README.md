@@ -97,4 +97,4 @@ pip install pygame numpy librosa
 ## GitHub について
 
 このプロジェクトは Amazon Q CLI を使用して作成されました。
-コードや音楽生成のプロセスについての詳細は、技術ブログ「技術ブログ.md」をご覧ください。
+コードや音楽生成のプロセスについての詳細は、https://qiita.com/sense_of_unity/items/4ce07c1fd5ec0e003f47をご覧ください。
